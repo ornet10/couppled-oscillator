@@ -1,1 +1,1 @@
-# lif_neuron_study
+## ongoing project
